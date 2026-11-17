@@ -1,0 +1,6 @@
+{
+  "name": "CaseVault",
+  "description": "Read-only Android forensic acquisition engine and cryptographic hash-chain verification workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
